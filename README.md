@@ -1,12 +1,12 @@
 ## Explanation of Assignment 
 
-In the assignment we had to Javascript to create a series of actions for a end user to generate a password. Based on the requirements provided I was able to develop processs to generate a new password through the user interface. 
+In the assignment we had to use Javascript to create a series of actions for a end user to generate a password. Based on the requirements provided I was able to develop a processs to generate a new password through the user interface. 
 
 Link to website: https://dbolding12.github.io/generatepassword.github.io/
 
 Screenshots:
 Click 'Generate Password'
-[file](/images/Screen Shot 2020-06-30 at 7.13.12 PM.png)
+[file](images/Screen Shot 2020-06-30 at 7.13.12 PM.png)
 
 # 03 JavaScript: Password Generator
 
