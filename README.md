@@ -6,7 +6,7 @@ Link to website: https://dbolding12.github.io/generatepassword.github.io/
 
 Screenshots:
 Click 'Generate Password'
-/Users/davidbolding/Desktop/GTBOOTCAMP/generatepassword.github.io/images/Screen Shot 2020-06-30 at 7.13.12 PM.png
+[file](/images/Screen Shot 2020-06-30 at 7.13.12 PM.png)
 
 # 03 JavaScript: Password Generator
 
