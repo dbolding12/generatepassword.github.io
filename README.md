@@ -1,3 +1,9 @@
+## Explanation of Assignment 
+
+In the assignment we had to Javascript to create a series of actions for a end user to generate a password. Based on the requirements provided I was able to develop processs to generate a new password through the user interface. 
+
+Link to website: https://dbolding12.github.io/generatepassword.github.io/
+
 # 03 JavaScript: Password Generator
 
 Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.

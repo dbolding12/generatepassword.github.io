@@ -13,20 +13,20 @@ var numberCheck;
 
 //Function for the user to determine the length of the generated password.
 function length() {
-  confirmLength = (prompt("How many characters would you like your password to contain?"));
+  confirmLength = (prompt("How long would you like your new password? \n(Choose a length of at least 8 characters and no more than 128 characters"));
     
 
    if (confirmLength<8 || confirmLength>128 || isNaN(confirmLength) ) {
      alert("Password length must be between 8 and 128 characters");
       length();
    } else {
-      alert("The next three screens will ask about your password requirements and length of"+" "+confirmLength);
+      alert("You will now navigate to prompts about your password requirements. The length of your password will consist of" + " " + confirmLength + " " + "characters");
     }
     return confirmLength;
 }
 //Function for the user to add a uppercase character in the generated password.
 function uppercaseChar(){
-  uppercaseCheck = prompt("Do you want to include uppercase letters in your password? \n(Yes or No)");
+  uppercaseCheck = prompt("Would you like to include uppercase letters in your password? \n(Yes or No) or (Y or N)");
     uppercaseCheck = uppercaseCheck.toLowerCase(); 
     
     
@@ -47,7 +47,7 @@ function uppercaseChar(){
 
 //Function for the user to add a numerical character in the generated password.
 function numberChar(){
-  numberCheck = prompt("Do you want to include numbers in your password? \n(Yes or No)");
+  numberCheck = prompt("Would you like to include numbers in your password? \n(Yes or No) or (Y or N)");
     numberCheck = numberCheck.toLowerCase();
 
     if (numberCheck === "yes" || numberCheck ==="y"){
@@ -59,7 +59,7 @@ function numberChar(){
       return numberCheck;
     
     }else {
-      alert("Please answer Yes or No");
+      alert("Please answer 'Yes' or 'No'");
         numberChar();
     }
     return numberCheck;
@@ -67,7 +67,7 @@ function numberChar(){
 
 //Function for the user to add a special character in the generated password.
 function specialChar(){
-  specialCheck = prompt("Do you want to include special characters in your password? \n(Yes or No)");
+  specialCheck = prompt("Would you like to include special characters in your password? \n(Yes or No) or (Y or N)");
     specialCheck = specialCheck.toLowerCase();
 
 if (specialCheck === "yes" || specialCheck ==="y"){
@@ -79,7 +79,7 @@ if (specialCheck === "yes" || specialCheck ==="y"){
       return specialCheck;
     
     }else {
-      alert("Please answer Yes or No");
+      alert("Please answer 'Yes' or 'No'");
         specialChar();
     }
     return specialCheck;
