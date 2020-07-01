@@ -5,8 +5,23 @@ In the assignment we had to use Javascript to create a series of actions for a e
 Link to website: https://dbolding12.github.io/generatepassword.github.io/
 
 Screenshots:
+1. Click 'Generate Password'
+![Generate Password](./images/generatepassword.png)
 
-[image](./images/generatepassword.png)
+2. Pick Password Requirements
+[Password Requirements](./images/navigationtorequirements.png)
+
+3. Select if Password Should include Numbers
+[Numbers](./mages/number.png)
+
+4. Select if Password Should include Special Characters
+[Special Characters](./images/specialcharacter.png)
+
+5. Select if Password Should include Uppercase Letters 
+[Uppercase Letters](./images/uppercase.png)
+
+6. Password Generated!!!!
+[Password Generated](./images/passwordgenerated.png)
 
 # 03 JavaScript: Password Generator
 
