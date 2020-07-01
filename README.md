@@ -8,16 +8,16 @@ Screenshots:
 1. Click 'Generate Password'
 ![Generate Password](./images/generatepassword.png)
 
-2. Pick Password Requirements
+2. You will noe Navigate to the Password Requirements
 ![Password Requirements](./images/navigationtorequirements.png)
 
-3. Select if Password Should include Numbers
-![Numbers](./mages/number.png)
+3. Select if the Password Should Include Numbers
+![Numbers](./images/number.png)
 
-4. Select if Password Should include Special Characters
+4. Select if the Password Should Include Special Characters
 ![Special Characters](./images/specialcharacter.png)
 
-5. Select if Password Should include Uppercase Letters 
+5. Select if the Password Should Include Uppercase Letters 
 ![Uppercase Letters](./images/uppercase.png)
 
 6. Password Generated!!!!
