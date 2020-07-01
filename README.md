@@ -6,7 +6,7 @@ Link to website: https://dbolding12.github.io/generatepassword.github.io/
 
 Screenshots:
 Click 'Generate Password'
-![image](./images/Screen Shot 2020-06-30 at 7.13.12 PM.png)
+![image](generatepassword.github.io/images/Screen Shot 2020-06-30 at 7.13.12 PM.png)
 
 # 03 JavaScript: Password Generator
 
