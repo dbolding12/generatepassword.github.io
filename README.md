@@ -8,7 +8,7 @@ Screenshots:
 1. Click 'Generate Password'
 ![Generate Password](./images/generatepassword.png)
 
-2. You will noe Navigate to the Password Requirements
+2. You will now Navigate through the Password Requirements
 ![Password Requirements](./images/navigationtorequirements.png)
 
 3. Select if the Password Should Include Numbers

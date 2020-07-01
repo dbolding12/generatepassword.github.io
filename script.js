@@ -20,7 +20,7 @@ function length() {
      alert("Password length must be between 8 and 128 characters");
       length();
    } else {
-      alert("You will now navigate to prompts about your password requirements. The length of your password will consist of" + " " + confirmLength + " " + "characters");
+      alert("You will now navigate through prompts about your password requirements. The length of your password will consist of" + " " + confirmLength + " " + "characters");
     }
     return confirmLength;
 }
