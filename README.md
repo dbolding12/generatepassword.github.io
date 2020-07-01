@@ -5,8 +5,8 @@ In the assignment we had to use Javascript to create a series of actions for a e
 Link to website: https://dbolding12.github.io/generatepassword.github.io/
 
 Screenshots:
-Click 'Generate Password'
-![image](generatepassword.github.io/images/Screen Shot 2020-06-30 at 7.13.12 PM.png)
+
+![image](./images/Screen Shot 2020-06-30 at 7.13.12 PM.png)
 
 # 03 JavaScript: Password Generator
 
