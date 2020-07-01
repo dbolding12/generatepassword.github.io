@@ -9,19 +9,19 @@ Screenshots:
 ![Generate Password](./images/generatepassword.png)
 
 2. Pick Password Requirements
-[Password Requirements](./images/navigationtorequirements.png)
+![Password Requirements](./images/navigationtorequirements.png)
 
 3. Select if Password Should include Numbers
-[Numbers](./mages/number.png)
+![Numbers](./mages/number.png)
 
 4. Select if Password Should include Special Characters
-[Special Characters](./images/specialcharacter.png)
+![Special Characters](./images/specialcharacter.png)
 
 5. Select if Password Should include Uppercase Letters 
-[Uppercase Letters](./images/uppercase.png)
+![Uppercase Letters](./images/uppercase.png)
 
 6. Password Generated!!!!
-[Password Generated](./images/passwordgenerated.png)
+![Password Generated](./images/passwordgenerated.png)
 
 # 03 JavaScript: Password Generator
 
